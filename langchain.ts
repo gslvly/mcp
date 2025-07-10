@@ -33,7 +33,6 @@ const a = tool(
   { name: "add", description: "加法" }
 );
 
-console.log(a)
 
 const client = new Client({
   name: "example-client",
